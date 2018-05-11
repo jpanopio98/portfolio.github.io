@@ -1,5 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto');/*look for new font family at fonts.google.com */
-
+<style>
+@import url('https://fonts.googleapis.com/css?family=Exo+2');
+</style>
 
 * {
 	margin: 0;
@@ -18,7 +19,7 @@ body {
 	width: 100%;
 	height: 100%;
 	background-color:#90A4AE; 
-	font-family: sans-serif;
+	font-family: 'Exo 2', sans-serif;
 }
 
 header {
