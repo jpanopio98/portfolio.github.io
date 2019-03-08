@@ -203,7 +203,12 @@ main2{
         opacity: 1;
     }
 }
-
+.light{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
 
 
